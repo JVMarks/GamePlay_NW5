@@ -49,6 +49,7 @@
 <p>Feito com ♥ by Rocketseat <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <a href="https://discordapp.com/invite/gCRAFhc" rel="nofollow">Entre na nossa comunidade!</a></p>
 </article>
       </div>       
+      
  <!--
  by https://github.com/JVMarks
 
